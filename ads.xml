@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/img/BOFA.jpg</ImageUrl>
+     <AlternateText>Discover</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>R1</Keyword>
+
+  </Ad>
+
+  <Ad>
+    <ImageUrl>img/index.jpg</ImageUrl>
+    <AlternateText>Sun Trust</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>R2</Keyword>
+
+  </Ad>
+
+  <Ad>
+    <ImageUrl>img/wellsfargo.jpg</ImageUrl>
+    <AlternateText>Wells Fargo</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>R3</Keyword>
+
+  </Ad>
+
+  <Ad>
+    <ImageUrl>img/loan.jpg</ImageUrl>
+    <AlternateText>Earn</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>R4</Keyword>
+
+  </Ad>
+
+  <Ad>
+    <ImageUrl>img/stu.png</ImageUrl>
+    <AlternateText>Student Govt</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>R5</Keyword>
+
+  </Ad>
+  
+  <Ad>
+    <ImageUrl>img/simple.png</ImageUrl>
+    <AlternateText>Simple Tuition</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>R2</Keyword>
+
+  </Ad>
+
+  <Ad>
+    <ImageUrl>img/ihelp.png</ImageUrl>
+    <AlternateText>iHelp</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>R3</Keyword>
+
+  </Ad>
+
+  <Ad>
+    <ImageUrl>img/finaid.gif</ImageUrl>
+    <AlternateText>Simple Tuition</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>R4</Keyword>
+
+  </Ad>
+
+</Advertisements>

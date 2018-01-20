@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>img/49025-discover-student-loans-box.jpg</ImageUrl>
+    <NavigateUrl>https://www.discover.com/student-loans/?acmpgn=P_GOO_NOBR_BM_X_DSKP1999&gclid=CICetNaPzdACFaHYMgodn7wG2Q&gclsrc=ds</NavigateUrl>
+    <AlternateText>
+      Discover
+    </AlternateText>
+    <Impressions>20</Impressions>
+   
+  </Ad>
+
+  <Ad>
+    <ImageUrl>img/index.jpg</ImageUrl>
+    <NavigateUrl>http://www.suntrusteducation.com/</NavigateUrl>
+    <AlternateText>Sun Trust</AlternateText>
+    <Impressions>20</Impressions>
+   
+  </Ad>
+
+  <Ad>
+    <ImageUrl>img/wellsfargo.jpg</ImageUrl>
+    <NavigateUrl>https://www.wellsfargo.com/student/</NavigateUrl>
+    <AlternateText>Wells Fargo</AlternateText>
+    <Impressions>20</Impressions>
+   
+  </Ad>
+
+  <Ad>
+    <ImageUrl>img/BOFA.jpg</ImageUrl>
+    <NavigateUrl>https://www.bankofamerica.com/student-banking/resources/types-of-student-loans.go</NavigateUrl>
+    <AlternateText>Bank Of America</AlternateText>
+    <Impressions>20</Impressions>
+   
+  </Ad>
+
+  <Ad>
+    <ImageUrl>img/loan.jpg</ImageUrl>
+    <NavigateUrl>https://www.earnest.com/refinance-student-loans?utm_source=google&utm_medium=cpc&utm_campaign=Search-Loans-Student-&utm_term=student%20loans-e&utm_content=Loans-&gclid=CI61nu6RzdACFYsvgQodRHwA9w</NavigateUrl>
+    <AlternateText>Earn</AlternateText>
+    <Impressions>20</Impressions>
+
+  </Ad>
+
+  <Ad>
+    <ImageUrl>img/stu.png</ImageUrl>
+    <NavigateUrl>https://studentloans.gov/myDirectLoan/index.action</NavigateUrl>
+    <AlternateText>Student Govt</AlternateText>
+    <Impressions>20</Impressions>
+
+  </Ad>
+  <Ad>
+    <ImageUrl>img/crdible.png</ImageUrl>
+    <NavigateUrl>https://www.credible.com/student-loans</NavigateUrl>
+    <AlternateText>Credible</AlternateText>
+    <Impressions>20</Impressions>
+
+  </Ad>
+
+  <Ad>
+    <ImageUrl>img/simple.png</ImageUrl>
+    <NavigateUrl>http://www.simpletuition.com/landing/20110728_results_a.html?WT.mc_id=201638&brnd=t1b&utm_source=google&utm_medium=cpc&utm_campaign=AA_HEAD%20TERMS:%20GCOM-EM</NavigateUrl>
+    <AlternateText>Simple Tuition</AlternateText>
+    <Impressions>20</Impressions>
+
+  </Ad>
+
+  <Ad>
+    <ImageUrl>img/ihelp.png</ImageUrl>
+    <NavigateUrl>http://ihelploan.com/?utm_source=adwords&utm_medium=cpc&utm_content=Save%20Money%2C%20Reduce%20Payments&utm_campaign=Consolidation%20Loans&gclid=CNnWp5OTzdACFZYkgQodr18M8g</NavigateUrl>
+    <AlternateText>iHelp</AlternateText>
+    <Impressions>20</Impressions>
+
+  </Ad>
+
+  <Ad>
+    <ImageUrl>img/finaid.gif</ImageUrl>
+    <NavigateUrl>http://www.finaid.org/loans/privatestudentloans.phtml</NavigateUrl>
+    <AlternateText>Simple Tuition</AlternateText>
+    <Impressions>20</Impressions>
+
+  </Ad>
+  
+</Advertisements>
